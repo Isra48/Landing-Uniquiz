@@ -93,6 +93,7 @@ h2 {
 .contents3 {
   color: #f2f2f2;
   margin: 2em;
+  margin-bottom: 0em;
   padding: 2em;
   padding-top: 2em;
   text-align: right;
@@ -107,9 +108,8 @@ h3 {
   font-family: "Helvetica", "Arial", sans-serif;
   display: inline-block;
   font-size: 1em;
-  padding: 1em 2em;
+  padding: 1em 1.5em;
   margin-top: 2em;
-  margin-bottom: 60px;
   -webkit-appearance: none;
   appearance: none;
   color: #f2f2f2;
@@ -119,4 +119,110 @@ h3 {
   position: relative;
   transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
   box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+}
+
+/*Here are the mediaquerys for section3 */
+
+/*Here start section4 */
+
+.section4 {
+  color: #f2f2f2;
+  padding: 0em 0.5em 0em 0.5em;
+  text-align: center;
+}
+
+.h3s4 {
+  font-size: 3em;
+  margin: 0.2em;
+}
+
+.ps4 {
+  font-size: 1.5em;
+}
+
+.Posts4 {
+  display: flex;
+  margin: 6em;
+  margin-top: 1.5em;
+}
+
+.cardbg {
+  background-color: #f2f2f2;
+  padding: 1em;
+  margin: 2em 1.5em 0em 1.5em;
+  border-radius: 5px;
+}
+
+.cards4 {
+  background-color: #ffffff;
+  padding: 0.5em;
+  text-align: left;
+}
+
+.imgcards4 {
+  width: auto;
+  background-color: #f2f2f2;
+  height: 200px;
+}
+
+.h4card {
+  color: #ff3860;
+  font-size: 1.5em;
+  font-weight: 600;
+  background-color: #ffffff;
+  padding: 1em;
+  padding: 2em 1.5em 0em 2em;
+}
+
+.pcard {
+  background-color: #ffffff;
+  color: rgb(0, 0, 0);
+  padding: 3em;
+}
+
+/*Here are the mediaquerys for section4 */
+
+/*Here start section5 */
+
+.metrics5 {
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(255, 0, 132, 0.24);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.175);
+  display: flex;
+  color: #f2f2f2;
+  padding: 2em;
+  margin: 3em 3em 0em 3em;
+  box-shadow: 0 2px 25px rgba(255, 0, 130, 0.5);
+}
+
+.items {
+  padding: 1.5em;
+  margin: auto;
+  text-align: center;
+  background-color: transparent;
+}
+
+.ps5 {
+  font-size: 1.5em;
+  background-color: transparent;
+  margin-top: 0.2em;
+}
+
+.hs5 {
+  font-size: 1em;
+  font-weight: 300;
+  margin: 0.5em;
+  background-color: transparent;
+}
+
+/*Here are the mediaquerys for section5 */
+
+/*Here start section6 */
+
+.section6 {
+  display: flex;
+  margin-top: 1.5em;
+  padding: 3em;
 }

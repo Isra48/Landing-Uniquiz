@@ -45,11 +45,144 @@ function App() {
           
         </div>
 
-
-
-
-
       </div>
+
+
+      <div className="section4">
+            <h3 className="h3s4">Noticias</h3>
+            <p className="ps4">
+              ¡Enetérate de lo que está pasando!
+            </p>
+
+            <div className="Posts4">
+
+              <div className="cardbg">
+                <div className="cards4">
+                  <div className="imgcards4">
+                    Soy una imagen
+                  </div>
+                  <h4 className="h4card">Post</h4>
+                  <p className="pcard">
+                  This is placeholder text that our web designers put here to make sure words appear properly on your website. 
+                  </p>
+
+                </div>
+
+              </div>
+
+
+
+
+
+              <div className="cardbg">
+                <div className="cards4">
+                  <div className="imgcards4">
+                    Soy una imagen
+                  </div>
+                  <h4 className="h4card">Post</h4>
+                  <p className="pcard">
+                  This is placeholder text that our web designers put here to make sure words appear properly on your website. 
+                  </p>
+
+                </div>
+
+              </div>
+
+
+
+
+
+
+              <div className="cardbg">
+                <div className="cards4">
+                  <div className="imgcards4">
+                    Soy una imagen
+                  </div>
+                  <h4 className="h4card">Post</h4>
+                  <p className="pcard">
+                  This is placeholder text that our web designers put here to make sure words appear properly on your website. 
+                  </p>
+
+                </div>
+
+              </div>
+
+
+            </div>
+
+          </div>
+
+
+
+
+
+
+
+          <div className="metrics5">
+
+            <div className="items">
+              <p className="ps5">
+                +1000
+              </p>
+              <h4 className="hs5">
+                Usuarios Registrados
+              </h4>
+
+            </div>
+
+
+
+            <div className="items">
+              <p className="ps5">
+                +1000
+              </p>
+              <h4 className="hs5">
+                Usuarios Registrados
+              </h4>
+
+            </div>
+
+
+
+            <div className="items">
+              <p className="ps5">
+                +1000
+              </p>
+              <h4 className="hs5">
+                Usuarios Registrados
+              </h4>
+
+            </div>
+
+            
+
+
+          </div>
+
+
+
+          <div className="section6">
+         
+
+          <p className="contents3">Una app creada por estudiantes para estudiantes que tambien realizaron el mismo examen de ingreso a la universidad.<br/> Estudia con nosotros de la forma más practica y accesible desde cualquier lugar, Ponte en forma con nuestro banco de preguntas estudiando cuando quieras... </p>
+
+          <img src={Marcian} className="marcian" alt=""/>
+
+          
+
+
+
+
+          </div>
+
+
+
+
+
+
+
+
+
 
 
 
